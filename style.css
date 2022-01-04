@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+}
+section{
+  display: flex;
+  font-family: 'Courier New', Courier, monospace;
+}
+.welcome{
+  text-decoration: none;
+  width: 50%;
+  margin-left: 90px;
+}
+.welcome h1{
+  font-size: 60px;
+  font-family: 'Pushster', cursive;
+}
+.welcome h4{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+.welcome p{
+  color: gray;
+  font-weight: 700;
+
+}
+.welcome-pic{
+  width: 50%;
+}
+.welcome-pic img{
+  height: 500px;
+}
