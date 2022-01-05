@@ -6,9 +6,8 @@ section{
   font-family: 'Courier New', Courier, monospace;
 }
 .welcome{
-  text-decoration: none;
   width: 50%;
-  margin-left: 90px;
+  margin-left: 70px;
 }
 .welcome h1{
   font-size: 60px;
@@ -28,4 +27,11 @@ section{
 }
 .welcome-pic img{
   height: 500px;
+}
+.hire-me-button{
+  background-image: linear-gradient(tomato,red);
+  text-decoration: none;
+  padding: 10px 40px;
+  color: white;
+  font-weight: bold;
 }
